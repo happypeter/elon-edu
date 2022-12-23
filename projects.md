@@ -1,0 +1,9 @@
+- Proj.1 Read 3 Names
+  - Elon, Youtube, Bilibili
+  - Knowing all letters no required, but still need to teach him the letters
+  - the goal is to recoginze the names, and read out aloud
+- Proj.2 Count Fingers
+  - aka. read from 1 to 10
+  - DONE on 20221222
+- Proj.3 Sing ABC Phonics Song
+  - https://www.bilibili.com/video/BV16p411o7nC
