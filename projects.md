@@ -5,5 +5,3 @@
 - Proj.2 Count Fingers
   - aka. read from 1 to 10
   - DONE on 20221222
-- Proj.3 Sing ABC Phonics Song
-  - https://www.bilibili.com/video/BV16p411o7nC

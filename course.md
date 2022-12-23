@@ -1,3 +1,10 @@
+- 20221224
+  - lesson2:
+    - Write 'Elon&Youtube'
+    - proj.1
+  - lesson3:
+    - ABC https://www.bilibili.com/video/BV16p411o7nC
+    - proj.1
 - 20221223
   - lesson1:
     - Phonics Alphablocks https://www.bilibili.com/video/BV1H5411L7B9/
