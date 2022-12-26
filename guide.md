@@ -3,7 +3,6 @@
 - no hurry to learn reading and writing, focus on speaking
   - be familar with the sound of letters, not the shape
   - be able to resite them
-- remember kid's song lyrics, resite them
 - each lesson 15min
 
 # Peter's Duty

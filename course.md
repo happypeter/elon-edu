@@ -1,3 +1,10 @@
+- 20221225
+  - lesson4:
+    - flash cards: help Elon's brain to map images to words
+    - proj.1
+  - lesson5:
+    - Write 'Elon&Youtube'
+    - proj.1
 - 20221224
   - lesson2:
     - Write 'Elon&Youtube'
