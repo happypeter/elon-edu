@@ -1,3 +1,27 @@
+- 20221229
+  - lesson9:
+    - Learning Action Words - Action Verbs - English Vocabulary https://www.youtube.com/watch?v=rPDxXfL8Qg4
+    - proj.1
+
+- 20221228
+  - lesson7:
+    - Learning Action Words - Action Verbs - English Vocabulary https://www.youtube.com/watch?v=rPDxXfL8Qg4
+    - proj.1
+  - lesson8:
+    - Identify Basic Colours and Showing Color Items https://www.youtube.com/watch?v=VTC7wH2vB9Y
+    - proj.1
+- 20221227
+  - lesson5:
+    - flash cards: names
+    - proj.1
+  - lesson6:
+    - Write 'Elon&Youtube'
+    - proj.1
+
+- 20221226
+  - lesson5:
+    - flash cards: names
+    - proj.1
 - 20221225
   - lesson4:
     - flash cards: help Elon's brain to map images to words
