@@ -1,6 +1,47 @@
+- 20230103
+  - lesson19:
+    - writes Elon
+    - proj.3
+  - lesson20:
+    - draws a car
+    - proj.5
+- 20230102
+  - lesson17:
+    - writes Elon
+    - proj.3
+  - lesson18:
+    - draws a car
+    - proj.5
+- 20230101
+  - lesson14:
+    - writes Elon
+    - proj.3
+  - lesson15:
+    - flashcards: vocabulary
+    - proj.3
+  - lesson16:
+    - drawing a car
+    - proj.5
+- 20221231
+  - lesson11:
+    - Learns to Use iPad/ApplePencil
+    - proj.4
+  - lesson12:
+    - Writes 'Elon'
+    - proj.3
+  - lesson13:
+    - Learns to Draw Human Shape
+    - proj.4
+- 20221230
+  - lesson10:
+    - Writes 'Elon'
+    - proj.3
+  - lesson11:
+    - flashcard
+    - proj.3
 - 20221229
   - lesson9:
-    - Learning Action Words - Action Verbs - English Vocabulary https://www.youtube.com/watch?v=rPDxXfL8Qg4
+    - Learns Action Words - Action Verbs - English Vocabulary https://www.youtube.com/watch?v=rPDxXfL8Qg4
     - proj.1
 
 - 20221228

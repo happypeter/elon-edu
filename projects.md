@@ -1,9 +1,13 @@
+- Proj.5 Draws a car
+  - understands colors and shapes
+- Proj.4 Draw a human
+  - aka. use iPad or paper
+  - DONE on 20221231
 - Proj.3 Writes His Name
   - aka. Elon
+  - DONE on 20221231
 - Proj.2 Counts Fingers
   - aka. read from 1 to 10
   - DONE on 20221222
-- Proj.1 Read 3 Names
-  - Elon, Youtube, Bilibili
-  - Knowing all letters no required, but still need to teach him the letters
-  - the goal is to recoginze the names, and read out aloud
+- Proj.1 Draw Cat and write Cat
+  - understands the relation of word and img
