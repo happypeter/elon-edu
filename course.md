@@ -1,3 +1,25 @@
+- 20230106
+  - lesson26:
+    - Read 5 words with imgs
+  - lesson27:
+    - Flashcard: vocabulary
+  - lesson28:
+    - Flashcard: vocabulary
+  - lesson29:
+    - Flashcard: vocabulary
+- 20230105
+  - lesson24:
+    - Flashcard: vocabulary
+  - lesson23:
+    - draw&write: Cat
+    - proj.3
+- 20230104
+  - lesson22:
+    - draw&write: Cat
+    - proj.3
+  - lesson23:
+    - draw&write: Car
+    - proj.3
 - 20230103
   - lesson19:
     - writes Elon
@@ -5,6 +27,8 @@
   - lesson20:
     - draws a car
     - proj.5
+  - lesson21:
+    - flashcard: vocabulary
 - 20230102
   - lesson17:
     - writes Elon

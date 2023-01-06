@@ -1,0 +1,1 @@
+Tip1: learn how to read and write at the same time was a mistake, will focus on read first for a while
