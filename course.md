@@ -1,3 +1,84 @@
+- 20230117
+  - lesson63:
+    - Phonics: letter sound
+- 20230116
+  - lesson62:
+    - Flashcard
+  - lesson61:
+    - Writes number 2&3
+  - lesson60:
+    - KhanKids
+  - lesson59:
+    - KhanKids
+  - lesson58:
+    - flashcards
+  - lesson57:
+    - KhanKids
+- 20230115
+  - lesson56:
+    - Writes & Draws: Bull
+  - lesson55:
+    - Writes number 2&3
+  - lesson54:
+    - lingokids: letters
+  - lesson53:
+    - Khan Kids: Letters
+- 20230114
+  - lesson49:
+    - Writes number 2
+  - lesson50:
+    - Writes number 2
+  - lesson51:
+    - Khan Kids
+  - lesson52:
+    - Khan Kids
+- 20230113
+  - lesson48:
+    - Phonics
+  - lesson49:
+    - explaining cartoon: babybus
+- 20230112
+  - lesson44:
+    - Phonics
+  - lesson45:
+    - Phonics
+  - lesson46:
+    - draws a cat
+  - lesson47:
+    - Interactive Cartoon: BabyBus from youtube
+- 20230111
+  - lesson41:
+    - Phonics
+  - lesson42:
+    - Phonics
+  - lesson43:
+    - draws a car
+- 20230110
+  - lesson38:
+    - Flashcard: vocabulary
+  - lesson39:
+    - Flashcard: vocabulary
+  - lesson40:
+    - draws a car
+- 20230109
+  - lesson35:
+    - Flashcard: vocabulary
+  - lesson36:
+    - Flashcard: vocabulary
+  - lesson37:
+    - draws a car
+- 20230108
+  - lesson34:
+    - Flashcard: vocabulary
+- 20230107
+  - lesson30:
+    - Read 5 words with imgs
+  - lesson31:
+    - Flashcard: vocabulary
+  - lesson32:
+    - Flashcard: vocabulary
+  - lesson33:
+    - Flashcard: vocabulary
 - 20230106
   - lesson26:
     - Read 5 words with imgs

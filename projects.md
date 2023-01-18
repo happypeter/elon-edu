@@ -1,16 +1,17 @@
-- Proj Draws a car
-  - understands colors and shapes
-
-- Proj Draw Cat and write Cat
-  - understands the relation of word and img
+- Proj.x Writes 0~9
 
 ## Archive
 
-- Proj.4 Writes His Name
-  - aka. Elon
-  - DONE on 20221231
-- Proj.3 Draw a human
+- Proj.6 Draw Cat and write Word
+  - understands the relation of word and img
+- Proj.5 Draws a car
+  - understands colors and shapes
+  - DONE on 20230111
+- Proj.4 Draw a human
   - aka. use iPad or paper
+  - DONE on 20221231
+- Proj.3 Writes His Name
+  - aka. Elon
   - DONE on 20221231
 - Proj.2 Counts Fingers
   - aka. read from 1 to 10
