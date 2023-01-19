@@ -1,4 +1,6 @@
 - Proj.x Writes 0~9
+- Proj.x Copy&Paste: Cmd-C/Cmd-V a fish in Keynotes
+
 
 ## Archive
 

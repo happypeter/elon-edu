@@ -1,4 +1,28 @@
+- 20230119
+  - lesson74:
+    - reads 1-3: Khan Kids
+  - lesson73:
+    - Reads 1-10: Poker Card game: big eats small
+  - lesson72:
+    - KhanKids
+  - lesson71:
+    - writes 3&4
+- 20230118
+  - lesson70:
+    - KhanKids
+  - lesson69:
+    - KhanKids
+  - lesson68:
+    - flashcards
+  - lesson67:
+    - Phonics: letter sound
 - 20230117
+  - lesson66:
+    - KhanKids
+  - lesson65:
+    - KhanKids
+  - lesson64:
+    - flashcards
   - lesson63:
     - Phonics: letter sound
 - 20230116
