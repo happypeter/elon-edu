@@ -1,3 +1,20 @@
+- 20230121
+  - lesson:
+    - Phonics: khan kid rhyme words
+  - lesson:
+    - Drawing: A Bull Head
+  - lesson:
+    - Drawing: A Bull Head
+      - we only try to get accuracy here, not precesion
+- 20230120
+  - lesson78:
+    - Drawing: Copys Didi's Day Character
+  - lesson77:
+    - daily conversation: DiDi's Day
+  - lesson76:
+    - writes 4-5: Khan Kids
+  - lesson75:
+    - letters: khan kids
 - 20230119
   - lesson74:
     - reads 1-3: Khan Kids

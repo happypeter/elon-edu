@@ -4,7 +4,7 @@
 
 ## Archive
 
-- Proj.6 Draw Cat and write Word
+- Proj.6 Draws Cat and write Word
   - understands the relation of word and img
 - Proj.5 Draws a car
   - understands colors and shapes
