@@ -1,3 +1,68 @@
+- 20230130
+  - writing: numbers
+  - Phonics x 4: khan kid
+
+- 20230129
+  - writing: numbers
+  - Phonics x 4: khan kid
+
+- 20230128
+  - lesson:
+    - writing: numbers
+  - lesson:
+    - Phonics: khan kid
+  - lesson:
+    - Phonics: khan kid
+  - lesson:
+    - Phonics: khan kid
+  - lesson:
+    - Phonics: khan kid
+- 20230127
+  - lesson:
+    - writing: numbers
+  - lesson:
+    - Phonics: khan kid
+  - lesson:
+    - Phonics: khan kid
+  - lesson:
+    - Phonics: khan kid
+  - lesson:
+    - Phonics: khan kid
+- 20230126
+  - lesson:
+    - counting: khan kid math
+  - lesson:
+    - Phonics: khan kid
+  - lesson:
+    - Phonics: khan kid
+  - lesson:
+    - Drawing: Pig
+- 20230125
+  - lesson:
+    - counting: khan kid math
+  - lesson:
+    - Phonics: khan kid
+- 20230124
+  - lesson:
+    - counting: khan kid math
+  - lesson:
+    - Phonics: khan kid
+- 20230123
+  - lesson:
+    - counting: khan kid math
+  - lesson:
+    - Phonics: khan kid
+  - lesson:
+    - Phonics: khan kid
+- 20230122
+  - lesson:
+    - counting: khan kid math
+  - lesson:
+    - letters: khan kid 
+  - lesson:
+    - logic: khan kid 
+  - lesson:
+    - math: writes 3, 4
 - 20230121
   - lesson:
     - Phonics: khan kid rhyme words
