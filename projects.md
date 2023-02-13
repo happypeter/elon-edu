@@ -1,8 +1,12 @@
 - Proj.x Writes 0~9
+- Proj.x Sings BaaBaa Black Sheep
 - Proj.x Copy&Paste: Cmd-C/Cmd-V a fish in Keynotes
 
 ## Archive
 
+- Proj.7 Search 'cat'
+  - first touch on search engine
+  - Eon loves searching images, this could drive him learn more word spelling
 - Proj.6 Draws Cat and write Word
   - understands the relation of word and img
 - Proj.5 Draws a car

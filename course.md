@@ -1,7 +1,59 @@
+- 20230214
+  - drawing-and-write x 1: DOG
+  - singing x 1: oldmacdonaldhadafarm
+- 20230213
+  - drawing-and-write x 1: CAT
+  - singing x 1: oldmacdonaldhadafarm
+  - Phonics x 2: Shadow Reading & Kid Kids
+  - Shadow Reading: Khan Kids Books
+- 20230212
+  - drawing: Random things
+  - singing x 1 : baba balcksheep
+  - Phonics x 4: Shadow Reading & Kid Kids
+  - Shadow Reading: Khan Kids Books
+- 20230211
+  - drawing: Random things
+  - singing x 1 : baba balcksheep
+  - Phonics x 4: Shadow Reading & Kid Kids
+  - Shadow Reading: Khan Kids Books
+- 20230210
+  - drawing: Random things
+  - Phonics x 4: Shadow Reading & Kid Kids
+  - Shadow Reading: Khan Kids Books
+- 20230209
+  - drawing: Random things
+  - Phonics x 4: Shadow Reading & Kid Kids
+  - Shadow Reading: Khan Kids Books
+- 20230208
+  - drawing: Random things
+  - Phonics x 4: Shadow Reading & Kid Kids
+  - Shadow Reading: Khan Kids Books
+- 20230207
+  - Phonics x 4: Shadow Reading & Kid Kids
+  - Shadow Reading: Khan Kids Books
+- 20230206
+  - Phonics x 4: Shadow Reading & Kid Kids
+  - Shadow Reading: Khan Kids Books
+- 20230205
+  - Phonics x 3: Shadow Reading & Kid Kids
+  - dance: Khan Songs
+  - Read Aloud: Khan Kids Books
+- 20230204
+  - Phonics x 5: Shadow Reading & Kid Kids
+- 20230203
+  - Phonics x 5: Shadow Reading & Kid Kids
+- 20230202
+  - Phonics x 2: Youtube Phonics songs
+  - speaking x 2: Shadow reading
+- 20230201
+  - Phonics x 1: Youtube Phonics songs
+  - speaking x 2: Shadow reading
+- 20230131
+  - writing: numbers
+  - Phonics x 6: khan kid
 - 20230130
   - writing: numbers
-  - Phonics x 4: khan kid
-
+  - Phonics x 6: khan kid
 - 20230129
   - writing: numbers
   - Phonics x 4: khan kid

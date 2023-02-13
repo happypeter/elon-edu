@@ -9,3 +9,5 @@ Tip7. Good letter songs
   - https://www.ixigua.com/7108916675080094245
   - 神兽辅导猿 Phonics 自然拼读歌谣 D-E-F 朗朗上口易记忆 发音单词都牢记
 Tip6: All you need is to follow Khan Academy Kids
+Tip8: How to learn letters? Don't teach baby 26 letters in one go, cause that's boring, instead let baby choose his favriote animals, and help him to write the names, say DOG CAT
+
