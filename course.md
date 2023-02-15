@@ -1,6 +1,12 @@
+- 20230215
+  - drawing-and-write x 1: DOG & PIG & CAR
+  - shadowing x 1: Khan
+  - singing x 1: oldmacdonaldhadafarm
+
 - 20230214
   - drawing-and-write x 1: DOG
-  - singing x 1: oldmacdonaldhadafarm
+  - shadowing x 1: Khan
+  - Phonics x 1: Shadow Reading & Kid Kids
 - 20230213
   - drawing-and-write x 1: CAT
   - singing x 1: oldmacdonaldhadafarm
