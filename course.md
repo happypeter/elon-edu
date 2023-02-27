@@ -1,12 +1,65 @@
+- 20230227
+  - shadowing x 3: Blippi
+  - watching x 4: Blippi
+
+- 20230226
+  - shadowing x 3: Blippi
+  - watching x 4: Blippi
+  - singing: letter song & one litte finger
+
+- 20230225
+  - shadowing x 3: Blippi
+  - watching x 4: Blippi
+  - singing: letter song & one litte finger
+
+- 20230224
+  - shadowing x 3: Peppa Pig
+  - singing: letter song
+
+- 20230223
+  - shadowing x 6: Peppa Pig
+  - Letters: KhanKids
+- 20230222
+  - shadowing x 6: Peppa Pig
+  - Letters: KhanKids
+  - Logic: Khan kids
+  - singing x 2: London bridage is falling down
+- 20230221
+  - shadowing x 6: Khan Books & ixigua kids' videos
+  - singing x 2
+- 20230220
+  - shadowing x 6: Khan Books & ixigua kids' videos
+  - singing x 2
+- 20230219
+  - shadowing x 5: Khan Books & ixigua kids' videos
+- 20230218
+  - drawing-and-write x 1: Bat
+  - singing: 5 Little Ducks
+  - shadowing: Khan Books
+  - Reading x 2: khan kids
+- 20230217
+  - drawing-and-write x 1: DOG & PIG & CAR
+  - singing: Super Simple Songs
+  - shadowing: Khan
+  - Reading x 2: khan kids
+  - craft: papercut
+
+- 20230216
+  - drawing-and-write x 1: DOG & PIG & CAR
+  - shadowing x 1: Khan
+  - Reading: khan kids
+  - craft: papercut
+
 - 20230215
   - drawing-and-write x 1: DOG & PIG & CAR
   - shadowing x 1: Khan
   - singing x 1: oldmacdonaldhadafarm
+  - Reading: khan kids
 
 - 20230214
   - drawing-and-write x 1: DOG
   - shadowing x 1: Khan
-  - Phonics x 1: Shadow Reading & Kid Kids
+  - Phonics x 1: Shadow Reading & Khan Kids
 - 20230213
   - drawing-and-write x 1: CAT
   - singing x 1: oldmacdonaldhadafarm

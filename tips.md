@@ -10,4 +10,7 @@ Tip7. Good letter songs
   - 神兽辅导猿 Phonics 自然拼读歌谣 D-E-F 朗朗上口易记忆 发音单词都牢记
 Tip6: All you need is to follow Khan Academy Kids
 Tip8: How to learn letters? Don't teach baby 26 letters in one go, cause that's boring, instead let baby choose his favriote animals, and help him to write the names, say DOG CAT
-
+Tip9: Don't manage Elon's time, manage his dopamine. Even you can keep them stay in your class for most of time, as long as he watch 3hr very entertaining cartoon, you plan won't work.
+Tip10: use slow shandowing to practice Phonics is a wonderful way to improve the English. Always pause and check to map the 44 sounds to 100+ common combinations is hugely enabling.
+Tip11: Before you teach baby spelling, make sure they know letter sounds. Just the phonics way to remember spelling.
+Tip12: I don't design the course, the course will evolve by itself. I listen to all the piradigms, and I pick what fit. Having a Knowledge Map is nice but that is not designed but evolved into overtime. Every subjects should be learnt with A Natrual Approach.
