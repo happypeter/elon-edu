@@ -14,3 +14,4 @@ Tip9: Don't manage Elon's time, manage his dopamine. Even you can keep them stay
 Tip10: use slow shandowing to practice Phonics is a wonderful way to improve the English. Always pause and check to map the 44 sounds to 100+ common combinations is hugely enabling.
 Tip11: Before you teach baby spelling, make sure they know letter sounds. Just the phonics way to remember spelling.
 Tip12: I don't design the course, the course will evolve by itself. I listen to all the piradigms, and I pick what fit. Having a Knowledge Map is nice but that is not designed but evolved into overtime. Every subjects should be learnt with A Natrual Approach.
+Tips13: Shandowing. Optimize for happiness. Elon got to pick whatever content he wants, difficuty levels does not matter. Try not to teach, but keep communicating with him to share the joy. Don't worry about the amount of reading, keep him relaxed. As long as he is passionate about the content, it's all fine.

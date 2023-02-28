@@ -1,9 +1,13 @@
 - Proj.x Writes 0~9
-- Proj.x Sings BaaBaa Black Sheep
+- Proj.x Search 'steve and maggie' in ixiagu.com
+  - learn to type
 - Proj.x Copy&Paste: Cmd-C/Cmd-V a fish in Keynotes
+- Proj.9 ulock iPhone
+  - type in password
 
 ## Archive
 
+- Proj.8 Sings BaaBaa Black Sheep
 - Proj.7 Search 'cat'
   - first touch on search engine
   - Eon loves searching images, this could drive him learn more word spelling
