@@ -1,5 +1,5 @@
 ## 0001 Speaking Before Reading
-learn how to read and write at the same time was a mistake, will focus on read first for a while
+learn how to read and write at the same time was a mistake, will focus on read first for a year or so
 
 ## 0002 Counting Sounds As Phonincs Training
 counting sounds is a key step for phonics learners https://www.youtube.com/watch?v=BmUNB-MRtA4
