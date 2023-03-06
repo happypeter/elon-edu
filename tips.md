@@ -30,3 +30,10 @@ Optimize for happiness. Elon got to pick whatever content he wants, the difficut
 
 ## 0011 speaking first
 Learning does not lead to acquisition. A non academic approach is a must. From Rachel's English, i learned the idea of pronounciation reductions. which happen to all of the most common words, that means if u try to hard to practice the IPA of a word, that may harm ur speaking. real english is simply different. it is too flexsible to be learned from a academic approach. this makes me more convinced that the Natural Approach is the only right way to go. so Elon will just learn from real conversations which means 5hr youtube plus 2hr of shandowing. no hurry to learn words, cause oral language is not about words, but sound groups. babies do not need to know how to read to talk well. when Elon learns a scentence I wont even require hime to speak every sound, he can be unclear at the begining. the whole point is binding a sound group to certain real life contexts, the abilty of reading does not help with accelerating the process. 
+
+
+## Don't think, bind
+learning English is just binding a notation, be it sounds or letters, to a thing. It is stupid to overthink, when people say good morning, they are not talking about if the morning is good or bad, that just means hello. Don't ask why people say I gonna go rather than I m off. Follow people's habits makes u more understandable, that is it. So as a English learner, don't think of any rules, think of norms. Think What's the most common way to express ur idea under this context. So all it matters is enough Comprehensive Input. Don't overthink, don't translate from ur mother tongue, just be curious and try to copy the native speakers.
+
+
+
