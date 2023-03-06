@@ -35,5 +35,6 @@ Learning does not lead to acquisition. A non academic approach is a must. From R
 ## Don't think, bind
 learning English is just binding a notation, be it sounds or letters, to a thing. It is stupid to overthink, when people say good morning, they are not talking about if the morning is good or bad, that just means hello. Don't ask why people say I gonna go rather than I m off. Follow people's habits makes u more understandable, that is it. So as a English learner, don't think of any rules, think of norms. Think What's the most common way to express ur idea under this context. So all it matters is enough Comprehensive Input. Don't overthink, don't translate from ur mother tongue, just be curious and try to copy the native speakers.
 
-
+## Don't read, shadow 
+reading Aloud just solidify ur own pronunciation flaws, you can not tell the reductions, additions or contradictions from printed text, even you got all the IPA perfectly. U will still sounds like a book and don't know how to talk. So have ur goal clear, if u want to converse, don't shadow speeches.
 
