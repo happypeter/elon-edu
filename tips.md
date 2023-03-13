@@ -46,3 +46,10 @@ Does a baby need subtitles to learn speaking? No. Forget about spelling, phonics
 
 ### 0016 forget spelling, focus on syllables
 When I was listening a simple video just now, I found myself reflecting the spellings along the way. While more importantly I should have focused on the pronunciation details.  Jake from Yemen told me you don’t need to know all the details to speak, the lesson I learned is that, not only spelling, even the pronunciation of a sentence doesn’t needed to be fully mastered, my attention is limited, focus on what truly important to make my speaking understandable. Which should be the stressed syllables and intonation stuff.
+
+### 0017 start from fast
+
+When it comes to learn spoken English, it is wise to start shadowing fast English, not slow one! Real life English and school English, even they are both spoken by native speakers, r two different language. The counterintuitive fact is that the more u learn the slow English, the harder u can switch to the fast one. Even u r comfortable with ‘I am going to’,  ‘IMNA’ is still sth u need to learn. So if it is not for reading which definitely should be learned after u can speak, learning the slow version is not just wasting ur time, but also cause slowing down and confusion. Stop shadowing audio books, turn to sth real like Blippi. Just because I feel it is fast n difficult, doesn’t mean it is difficult for Elon. Seriously, IMNA Is a whole lot easier than IAMGOINGTO.
+
+### 0018 Don’t learn English with leveled reading 
+Cuz books like RAZ were designed for kids who already know English, to learn reading. Again, a language is learned by ears not eyes. This is so so important, yet few teachers understand this in China. Note, even the audio of the RAZ books r there to help kids learn the words, not speaking. So stop shadowing Khan Academy or RZA books
