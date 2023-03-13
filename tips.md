@@ -43,3 +43,6 @@ thinking of IPA of a word, does not help with my listening or speaking at all, i
 
 ## 0015 no text, learn with ears
 Does a baby need subtitles to learn speaking? No. Forget about spelling, phonics and the 44 sounds, just do the shadowing. Native speaker learn English with their ears, while we learn with eyes, that is the main reason we can not speak. English is about syllables not words.
+
+### 0016 forget spelling, focus on syllables
+When I was listening a simple video just now, I found myself reflecting the spellings along the way. While more importantly I should have focused on the pronunciation details.  Jake from Yemen told me you don’t need to know all the details to speak, the lesson I learned is that, not only spelling, even the pronunciation of a sentence doesn’t needed to be fully mastered, my attention is limited, focus on what truly important to make my speaking understandable. Which should be the stressed syllables and intonation stuff.
