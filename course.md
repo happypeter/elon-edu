@@ -1,3 +1,13 @@
+- 20230403
+  - shadowing x 2: Blippi
+  - watching x 4: LittleFox.com
+- 20230402
+  - shadowing x 2: Blippi
+  - watching x 4: Jorney To the West
+- 20230301-20230401
+  - I was away from Elon in Najing for a month travel
+  - Elon's been doing 1hr shadowing and 5hr cartoon per day
+    - Blippi, Jorney to The West, Peppa...
 - 20230227
   - shadowing x 3: Blippi
   - watching x 4: Blippi
@@ -403,3 +413,6 @@
   - lesson1:
     - Phonics Alphablocks https://www.bilibili.com/video/BV1H5411L7B9/
     - proj.1
+
+- 20220722~20220818
+  - read Heinemann Series Every Day for 10min
