@@ -2,8 +2,6 @@
 - Proj.x Search 'steve and maggie' in ixiagu.com
   - learn to type
 - Proj.x Copy&Paste: Cmd-C/Cmd-V a fish in Keynotes
-- Proj.9 ulock iPhone
-  - type in password
 
 ## Archive
 
