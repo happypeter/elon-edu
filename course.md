@@ -1,3 +1,9 @@
+- 20230405
+  - watching x 4
+  - playInPark x 8: rock climing, balance beam, swing.
+- 20230404
+  - shadowing x 2: Blippi
+  - watching x 4: LittleFox.com
 - 20230403
   - shadowing x 2: Blippi
   - watching x 4: LittleFox.com
