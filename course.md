@@ -1,3 +1,16 @@
+- 20230417
+  - watching x 4
+  - khan: logics x 1
+- 20230406-20230416
+  - mostly enough cartoon watching
+  - a lot of conversation with me, been traveling in Hengshui and else
+  - his comunication skill developing as fast as before
+  - now he will go 'can you see the horns on the bus?' 
+    - I said 'no'
+    - He: 'the yellow and red things there'
+    - I: 'really can not see them'
+    - He: 'how can you not see them?'
+    - back and forth meaningful conversations.
 - 20230405
   - watching x 4
   - playInPark x 8: rock climing, balance beam, swing.
