@@ -1,8 +1,8 @@
 ## 0001 Speaking Before Reading
-learn how to read and write at the same time was a mistake, will focus on read first for a year or so
+learn how to read and write at the same time was a mistake, will focus on speaking first for a year or so.
 
-## 0002 Counting Sounds As Phonincs Training
-counting sounds is a key step for phonics learners https://www.youtube.com/watch?v=BmUNB-MRtA4
+## 0002 Phonics does not help picking up the language
+English or any language ablity is your natural voice reaction in certain context. reading could be a powerful tool for human, but that's sth else. binding sound chunks to contexts does not need the ablity to read, and thus Phonics is not needed before Elon can speak the language fluently.
 
 ## 0003 Send Iphone Photoes to Macbook
 use AirDrop
@@ -51,5 +51,8 @@ When I was listening a simple video just now, I found myself reflecting the spel
 
 When it comes to learn spoken English, it is wise to start shadowing fast English, not slow one! Real life English and school English, even they are both spoken by native speakers, r two different language. The counterintuitive fact is that the more u learn the slow English, the harder u can switch to the fast one. Even u r comfortable with ‘I am going to’,  ‘IMNA’ is still sth u need to learn. So if it is not for reading which definitely should be learned after u can speak, learning the slow version is not just wasting ur time, but also cause slowing down and confusion. Stop shadowing audio books, turn to sth real like Blippi. Just because I feel it is fast n difficult, doesn’t mean it is difficult for Elon. Seriously, IMNA Is a whole lot easier than IAMGOINGTO.
 
-### 0018 Don’t learn English with leveled reading 
+### 0018 DonT learn English with leveled readers
 Cuz books like RAZ were designed for kids who already know English, to learn reading. Again, a language is learned by ears not eyes. This is so so important, yet few teachers understand this in China. Note, even the audio of the RAZ books r there to help kids learn the words, not speaking. So stop shadowing Khan Academy or RZA books
+
+### 0019 babyEnglishOnly
+this is for myself. I find it hard to pick up the sounds when I shandow too much adult level english, my energy used a lot on the content itself. Child cartoon things will be good for me now, with limited difficulty level, simpler logic and vocabulary. I can foucus on the intonation. This is also very NATRUAL, think what Elon would do if I throw him a ted talk, he will go away.
