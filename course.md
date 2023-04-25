@@ -1,3 +1,7 @@
+- 20230418-25
+  - I start my new rutine tag #babyEnglishOnly, meaning I only shadow child English.
+  - kinda fall into the belif of PlayingIstheBestLearning , try to keep eveything as natrual and enjoyable for Elon as possible. only one Khan lesson every day, almost no shadowing.
+  - but he is making marvelous progress, I saw him telling stories to Billie for 5 mins or so. and I realized all it matters is his curiosity and passion to express. So protecting those are my top priority.
 - 20230417
   - watching x 4
   - khan: logics x 1
