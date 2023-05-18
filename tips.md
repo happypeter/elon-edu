@@ -56,3 +56,9 @@ Cuz books like RAZ were designed for kids who already know English, to learn rea
 
 ### 0019 babyEnglishOnly
 this is for myself. I find it hard to pick up the sounds when I shandow too much adult level english, my energy used a lot on the content itself. Child cartoon things will be good for me now, with limited difficulty level, simpler logic and vocabulary. I can foucus on the intonation. This is also very NATRUAL, think what Elon would do if I throw him a ted talk, he will go away.
+
+### 0020 gamification
+games provide interaction, one of the best ways to learn logics and things, should be Elon's everyday rutine I guess.
+
+### 0021 byebyeSchool
+Plan to abandon the whole acedemic way to do things. Many of the so-scalled learnings are just tricking the education insitutions. Education itself is cheating. Elon will just focusing on creating value for himself and people around him. Say learning some music instruments to entertain his friends, doing football to get the fun of sports and gain health. Screw the lies. If there is one thing we need to stick to, that is forming as many good habits as we can.

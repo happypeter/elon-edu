@@ -1,3 +1,7 @@
+- 20230425-20230530
+  - adopted the 'ConsciousParent' approach, try not to force him to do anything
+    - I've foucusing on setup connections with him, and helping him connect with himself. no yelling, no forcing, building self significance.
+  - Elon has made great progress in term of lanuage acqusition
 - 20230418-25
   - I start my new rutine tag #babyEnglishOnly, meaning I only shadow child English.
   - kinda fall into the belif of PlayingIstheBestLearning , try to keep eveything as natrual and enjoyable for Elon as possible. only one Khan lesson every day, almost no shadowing.
