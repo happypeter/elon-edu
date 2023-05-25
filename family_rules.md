@@ -1,0 +1,3 @@
+- sweets
+  - no more than one sweet things per day, be it fruits or sweets
+  - in special cases, shall Elon take more than one, than no sweets the following according days
