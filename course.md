@@ -1,3 +1,5 @@
+- 20230530-20230630
+  - start OneDrawingOneDay for Elon, I think I need to pause this after 1 month, cause I don't want to push him too much, we will switch to music or sth, and then come back a few month later for drawing.
 - 20230425-20230530
   - adopted the 'ConsciousParent' approach, try not to force him to do anything
     - I've foucusing on setup connections with him, and helping him connect with himself. no yelling, no forcing, building self significance.
