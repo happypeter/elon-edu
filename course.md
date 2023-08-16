@@ -1,5 +1,9 @@
+- 20230701-20230831
+  - continue OneDrawingOneDay, and Elon will take charge of his own day plan, he started to dump stupid videos, and perferred more educational one's like Youtue:WildBrainFizz.
+  - my role is mostly 1hr per day, playing with him, I don't really push for anything.
 - 20230530-20230630
   - start OneDrawingOneDay for Elon, I think I need to pause this after 1 month, cause I don't want to push him too much, we will switch to music or sth, and then come back a few month later for drawing.
+  - added a math/logic lesson everyday, so now Elon is required to do 1hr of study, my goal is too make it to 3hr or more a day, but without any pain. Our goal as parents is just to help Elon to do self-guided-learning.
 - 20230425-20230530
   - adopted the 'ConsciousParent' approach, try not to force him to do anything
     - I've foucusing on setup connections with him, and helping him connect with himself. no yelling, no forcing, building self significance.
