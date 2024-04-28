@@ -1,7 +1,8 @@
+- 20240408
+  - PBL, project base learning. woodwork, cardboard box robots, wood blocks.
 - 20240201-20230901
   - A Report on my 5yo Elon's progress the past six month. He got all the freedom to do whatever he wants, except beening required to sit down to draw whatever he wanted every night. And I would ask him to help a bit with my projects, just as I help him with his cooking/woodwork projects. but he got all the freedom to decide whatever he wants to build, I only offer the material he wants. His days have been mostly youtube, surprisingly, even without any supervision, he preferred educational content, e.g Blippi, The Monkey Gorge, Steve and Maggie, and Peppa Pig. and gave up things like Tom and Jerry. To conclude, his days are fairly efficient and happy, he got to make all his decisions, cause I believe it's the best way to develop his passion for learning. Self confidence and self significance matter. Yeah, still 100% #EnglishOnly , #projectBasedLearning. thx.
 
-  
 - 20230701-20230831
   - continue OneDrawingOneDay, and Elon will take charge of his own day plan, he started to dump stupid videos, and perferred more educational one's like Youtue:WildBrainFizz.
   - my role is mostly 1hr per day, playing with him, I don't really push for anything.
