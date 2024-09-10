@@ -1,3 +1,6 @@
+### 20240910
+helped with house building for 5hrs, showed more passion, and Elon even tried to design the keep-open stick for the windows.
+
 ### 20240907
 Elon helped me buidling my wood house for 4hrs, and he enjoyed that.
 
