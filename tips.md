@@ -14,7 +14,7 @@ no notes, no vacabulary book, only use dictionary in ergent cases, and mostly fo
 No hurry, follow the pace of Khan Academy Kids
 
 ## 0006  Manage to the Dopamine
-Don't manage Elon's time, manage his dopamine. Even you can keep them stay in your class for most of time, as long as he watch 3hr very entertaining cartoon, you plan won't work.
+Don't manage Elon's time, manage his dopamine. Even you can keep them stay in your class for most of time, as long as he watch 3hr very entertaining cartoon, your plan won't work.
 
 ## 0007 Phonics, Always Map To the 44
 use slow shandowing to practice Phonics is a wonderful way to improve the English. Always pause and check to map the 44 sounds to 100+ common combinations is hugely enabling.
@@ -62,4 +62,5 @@ games provide interaction, one of the best ways to learn logics and things, shou
 
 ### 0021 byebyeSchool
 Plan to abandon the whole acedemic way to do things. Many of the so-scalled learnings are just tricking the education insitutions. Education itself is cheating. Elon will just focusing on creating value for himself and people around him. Say learning some music instruments to entertain his friends, doing football to get the fun of sports and gain health. Screw the lies. I will try to aviod being influnced by school curriculum, even at the price of giving up on universities. Math? Yes, Biology? Yes, but never learn more than enough. Enough for what? Not for exams of any kind, eyes on the real life problems only. If there is one thing we need to stick to, that is forming as many good habits as we can. 
-
+### 022 Repair your connection after yelling
+https://www.youtube.com/watch?v=PHpPtdk9rco , cause if you don't, your kid will endup with self-blaming, and would tend to blame themselves for other people's fault, when grown up.
