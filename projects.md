@@ -7,6 +7,7 @@
 
 - porj.11 shelter building
   - he made a shed-ish shelter, out of the pile of rocks and wood chips under a old door lean to the wall
+  - the result is neat, but the best part is he did that sponteniously
 - Proj.10 html hello world
 - Proj.9 unlock iPhone
   - type in password
