@@ -5,7 +5,9 @@
 
 ## Archive
 
-- Proj.1 html hello world
+- porj.11 shelter building
+  - he made a shed-ish shelter, out of the pile of rocks and wood chips under a old door lean to the wall
+- Proj.10 html hello world
 - Proj.9 unlock iPhone
   - type in password
 - Proj.8 Sings BaaBaa Black Sheep
