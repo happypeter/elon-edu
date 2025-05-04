@@ -64,3 +64,6 @@ games provide interaction, one of the best ways to learn logics and things, shou
 Plan to abandon the whole acedemic way to do things. Many of the so-scalled learnings are just tricking the education insitutions. Education itself is cheating. Elon will just focusing on creating value for himself and people around him. Say learning some music instruments to entertain his friends, doing football to get the fun of sports and gain health. Screw the lies. I will try to aviod being influnced by school curriculum, even at the price of giving up on universities. Math? Yes, Biology? Yes, but never learn more than enough. Enough for what? Not for exams of any kind, eyes on the real life problems only. If there is one thing we need to stick to, that is forming as many good habits as we can. 
 ### 022 Repair your connection after yelling
 https://www.youtube.com/watch?v=PHpPtdk9rco , cause if you don't, your kid will endup with self-blaming, and would tend to blame themselves for other people's fault, when grown up.
+
+### 023 No requirements but recommendations
+Self-motivation is key for a successful life. so I don't want to disturb how ELon prefer to explore the world, so when it comes to youtube videos, he is the boss on how to pick what he wanna study, but I will give recommendations from time to time.
